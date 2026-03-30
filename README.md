@@ -1,5 +1,7 @@
 # 🧪 Prompt Eval App
 
+![Prompt Eval App](image.png)
+
 แอปพลิเคชันสำหรับประเมินผล (Evaluate) Prompt และความแม่นยำของคำตอบจาก LLMs สร้างด้วย [Streamlit](https://streamlit.io/) และเชื่อมต่อกับ LLMs ผ่าน API ของ [OpenRouter](https://openrouter.ai/)
 
 ## 🌟 ฟีเจอร์หลัก (Features)
